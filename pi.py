@@ -7,7 +7,7 @@ root = Tk()
 root.attributes('-fullscreen', True)
 
 time1 = ''
-clock = Label(root, font=('times', 20, 'bold'), bg='green')
+clock = Label(root, font=('times', 40, 'bold'), bg='white')
 clock.pack(fill=BOTH, expand=1)
 
 
